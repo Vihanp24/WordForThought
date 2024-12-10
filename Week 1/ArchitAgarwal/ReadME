@@ -1,0 +1,7 @@
+# Week 1 Submission: Word for Thought
+# Author: Archit Agarwal
+
+# Contents:
+#   house_prediction_model.ipynb:
+#     Implements a predictive model for house prices using linear regression.
+#     Includes data preprocessing, feature selection, model training, and evaluation.
