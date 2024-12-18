@@ -11,7 +11,7 @@ Contents:
     It explores the relationship between session length, app usage, and membership duration.
   
   Logistic Regression Project.ipynb: 
-    This project uses logistic regression to predict whether a user clicked on an ad based on demographic and behavioral data.
+    This project uses logistic regression to predict whether a user clicked on an ad.
     It explores the relationship between age, income, daily internet usage, and ad topic.
 
   Animal Classification Project.ipynb:
