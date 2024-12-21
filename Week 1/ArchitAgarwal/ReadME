@@ -14,7 +14,3 @@ Contents:
     This project uses logistic regression to predict whether a user clicked on an ad.
     It explores the relationship between age, income, daily internet usage, and ad topic.
 
-  Animal Classification Project.ipynb:
-    This project uses transfer learning to classify 15 different animals
-    It takes in jpg/jpeg images as input and outputs the name of the animal 
-    Uses transfer learning using a pretrained MobileNetV2 model and Keras Frameworks.
