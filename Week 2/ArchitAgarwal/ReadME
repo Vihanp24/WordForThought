@@ -1,0 +1,9 @@
+Week 2 Submission: Word for Thought
+Author: Archit Agarwal
+
+Contents:
+
+1) Animal Classification Project.ipynb:
+    This project uses transfer learning to classify 15 different animals
+    It takes in jpg/jpeg images as input and outputs the name of the animal 
+    Uses transfer learning using a pretrained MobileNetV2 model and Keras Frameworks.
