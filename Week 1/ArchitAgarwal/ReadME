@@ -1,0 +1,16 @@
+Week 1 Submission: Word for Thought
+Author: Archit Agarwal
+
+Contents:
+  house_prediction_model.ipynb:
+    Implements a predictive model for house prices using linear regression.
+    Includes data preprocessing, feature selection, model training, and evaluation.
+
+  Linear Regression Project.ipynb: 
+    This project uses linear regression to predict "Yearly Amount Spent" based on user behavior data.
+    It explores the relationship between session length, app usage, and membership duration.
+  
+  Logistic Regression Project.ipynb: 
+    This project uses logistic regression to predict whether a user clicked on an ad.
+    It explores the relationship between age, income, daily internet usage, and ad topic.
+
